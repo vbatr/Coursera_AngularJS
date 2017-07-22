@@ -1,3 +1,19 @@
 .conatainer {
-  
+  padding: 10px;
+}
+
+.lunch-menu-danger {
+  border-color: red;
+}
+
+.lunch-menu-success {
+  border-color: green;
+}
+
+.message-danger {
+  color: red;
+}
+
+.message-success {
+  color: green;
 }
